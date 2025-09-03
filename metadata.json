@@ -1,0 +1,8 @@
+{
+  "name": "SIR TAHIR : AI Tutor",
+  "description": "An intelligent, offline-first AI Tutor designed to help Pakistani students with Mathematics, Science, and English. This web-based prototype simulates the core features using an online API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
